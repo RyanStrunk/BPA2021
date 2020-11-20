@@ -1,0 +1,26 @@
+/*
+	By: Joshua Pelealu
+	Problem [NUM] - [Title]
+	Link: https://projecteuler.net/problem=[NUM]
+	Solved - Answer: 
+	Language: C++, JavaScript, Python
+*/
+
+
+C++ Boilerplate
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+	
+}
+
+JavaScript Boilerplate
+
+(function () {
+	
+}) ()
